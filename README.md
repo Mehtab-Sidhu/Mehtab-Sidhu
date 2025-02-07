@@ -14,4 +14,4 @@
 
 ## 🛠️ Technologies & Tools
 
-![Languages and Tools](https://skillicons.dev/icons?i=git,github,bitbucket,vscode,python,django,fastapi,mysql,postgres,appwrite,java,go,c,cpp,javascript,html,css,bootstrap,docker,postman,figma,xd,notion&theme=light)
+![Languages and Tools](https://skillicons.dev/icons?i=git,github,bitbucket,vscode,python,django,fastapi,mysql,postgres,appwrite,java,go,c,cpp,html,css,bootstrap,docker,postman,figma,xd,notion&theme=light)
